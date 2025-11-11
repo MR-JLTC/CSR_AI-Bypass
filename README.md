@@ -15,6 +15,7 @@ This tool will not generate any fake email accounts and OAuth access.
 </p>
 </div>
 
+`CTTO YEONGPIN`
 
 ## 👀 How to use
 
