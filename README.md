@@ -5,6 +5,8 @@
   <img src="./images/logo.png" alt="Cursor Pro Logo" width="200" style="border-radius: 6px;"/>
 </p>
 
+`CTTO YEONGPIN`
+
 `Note`
 This tool is for educational purposes, currently the repo does not violate any laws. Please support the original project.
 This tool will not generate any fake email accounts and OAuth access.
