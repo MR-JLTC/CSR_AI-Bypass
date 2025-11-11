@@ -24,7 +24,7 @@ This tool will not generate any fake email accounts and OAuth access.
 ### **Windows**
 
 ```powershell
-irm https://raw.githubusercontent.com/MR-JLTC/CSR_AI-Bypass/tree/main/scripts | iex
+irm https://raw.githubusercontent.com/MR-JLTC/CSR_AI-Bypass/main/scripts/install.ps1  | iex
 ```
 
 </details>
